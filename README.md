@@ -3,7 +3,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🏦 I'm a Front-End Engineering and one the way to be a Full-Stack Web3 Developer. 
-- hi, My passion for software development drives me to keep pushing forward, and the process of learning and self-improvement is both challenging and rewarding. I always hold my code to the highest standards, and my ultimate goal is to become a proficient Fullstack Development Engineer.
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I sometimes write articles on my own [blog](https://prelude-blog.vercel.app).
 - 💻 I use daily: **.ts**, **.rs**, **.py**, **.sol**
@@ -14,7 +13,6 @@
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-      <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
@@ -30,7 +28,10 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
 ![Kabudafax's github stats](https://github-readme-stats.vercel.app/api?username=kabudafax&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=ADD8E6&hide=issues&count_private=true&include_all_commits=true)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kabudafax&show_icons=true&theme=gotham" alt="GrayJyy" />
+<br />
+<br />
+<br />
 
 <!--START_SECTION:waka-->
 
@@ -51,8 +52,8 @@ CSS           4 mins          ░░░░░░░░░░░░░░░░�
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>War is peace. Freedom is slavery. Ignorance is strength.</i>
-• <i>All those moments will be lost in time, like tears in rain.</i>
+• <i>War is peace. Freedom is slavery. Ignorance is strength.</i><br>
+• <i>All those moments will be lost in time, like tears in rain.</i><br>
 • <i>The Answer to the Ultimate Question of Life, the Universe, and Everything is 42.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
@@ -61,7 +62,7 @@ CSS           4 mins          ░░░░░░░░░░░░░░░░�
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' style="background-color:white;" />
 
 <!--
 **kabudafax/kabudafax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
