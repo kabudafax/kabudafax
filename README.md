@@ -45,13 +45,14 @@ CSS           4 mins          ░░░░░░░░░░░░░░░░�
 ⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.24 % as on ⏰ 16-Apr-2024
 
 <!--END_SECTION:waka-->
+<br>
 ---
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <p>War is peace. Freedom is slavery. Ignorance is strength.</p><br>
+• <i>War is peace. Freedom is slavery. Ignorance is strength.</i><br>
 • <i>All those moments will be lost in time, like tears in rain.</i><br>
 • <i>The Answer to the Ultimate Question of Life, the Universe, and Everything is 42.</i>
 <!--ENDS_HERE_QUOTE_README-->
