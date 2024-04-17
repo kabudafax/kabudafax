@@ -26,9 +26,7 @@
 ---
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-
-![Kabudafax's github stats](https://github-readme-stats.vercel.app/api?username=kabudafax&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=ADD8E6&hide=issues&count_private=true&include_all_commits=true)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kabudafax&show_icons=true&theme=gotham" alt="GrayJyy" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kabudafax&show_icons=true&theme=gotham" alt="Kabudafax" />
 <br />
 <br />
 <br />
@@ -42,7 +40,8 @@ JSON          10 mins         ▒░░░░░░░░░░░░░░░�
 Image (svg)   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 CSS           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
-
+<br>
+<br>
 ⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.24 % as on ⏰ 16-Apr-2024
 
 <!--END_SECTION:waka-->
@@ -52,7 +51,7 @@ CSS           4 mins          ░░░░░░░░░░░░░░░░�
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>War is peace. Freedom is slavery. Ignorance is strength.</i><br>
+• <p>War is peace. Freedom is slavery. Ignorance is strength.</p><br>
 • <i>All those moments will be lost in time, like tears in rain.</i><br>
 • <i>The Answer to the Ultimate Question of Life, the Universe, and Everything is 42.</i>
 <!--ENDS_HERE_QUOTE_README-->
