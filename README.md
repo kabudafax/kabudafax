@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🏦 I'm a Front-End Engineering and one the way to be a Full-Stack Web3 Developer. 
+- 🏦 I'm a Front-End Engineering and on the way to be a Full-Stack Web3 Developer. 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I sometimes write articles on my own [blog](https://prelude-blog.vercel.app).
 - 💻 I use daily: **.ts**, **.rs**, **.py**, **.sol**
